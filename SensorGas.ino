@@ -12,8 +12,8 @@
 #include <DHT.h>
 
 /** Estas são as declarações relacionadas ao CircusESP32Lib**/
-char ssid[] = "Daiana";                            // Coloque seu SSID wifi aqui
-char password[] =  "daiana0206";                    // Coloque sua senha wifi aqui
+char ssid[] = "Sua rede";                            // Coloque seu SSID wifi aqui
+char password[] =  "sua senha";                    // Coloque sua senha wifi aqui
 char token[] = "eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI3MDcifQ.RiLTLZUSSAV-bD4_aRbFZBTrUqQfl9Ow8c9pWE-nkV8"; // Coloque seu token da conta Circus Of Things.
 char server[] = "www.circusofthings.com";
 char temperature_key[] = "2075";                  // Coloque a chave do sinal que você criou no Circus Of Things para a temperatura
